@@ -46,7 +46,7 @@ std::string passGen(int n) {
 
 int main () {
   int n;
-  std::cout << "Created by Onur Genc, Created 1/23/24\n";
+  std::cout << "Created by Jockey12, Created 1/23/24\n";
   std::cout << "Version 3\n";
   std::cout << "Welcome to Password Creator\n";
   std::cout << "Length of the password: ";
